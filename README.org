@@ -1,0 +1,9 @@
+* cl-jsx
+
+JSX in Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/mmontone/cl-jsx.git |
+| commit  | bc43ff9                                    |
+| systems | cl-jsx                                     |
+|---------+--------------------------------------------|
